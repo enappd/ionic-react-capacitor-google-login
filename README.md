@@ -1,5 +1,6 @@
 # ionic-react-capacitor-google-login
-Demo code for ionic-react-capacitor-google-login tutorial 
+Demo code for ionic-react-capacitor-google-login tutorial . Detailed tutorial at - [Google Login in Ionic React Capacitor Apps
+](https://enappd.com/blog/google-login-in-ionic-react-capacitor-apps/122/)
 
 
 # Explore Enappd Store
