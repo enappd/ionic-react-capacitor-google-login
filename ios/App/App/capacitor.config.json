@@ -1,0 +1,16 @@
+{
+  "appId": "com.enappd.IonReactCapGoogleLogin",
+  "appName": "IonReactCapGoogleLogin",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "160012889513-qkt18m4n7umihpbl5vjue1ekgubrp5ve.apps.googleusercontent.com"
+    }
+  }
+}

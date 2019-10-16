@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>YOUR_WEB_CLIENT_ID</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>YOUR_REVERSED_CLIENT_ID</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>YOUR_ANDROID_CLIENT_ID</string>
+		<key>API_KEY</key>
+		<string>AIzaSyDGzDkBLLJ6k8YELd3lm9CGxw4l3xWUCYk</string>
+		<key>GCM_SENDER_ID</key>
+		<string>160012889513</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.enappd.IonReactCapGoogleLogin</string>
+		<key>PROJECT_ID</key>
+		<string>auth-demos</string>
+		<key>STORAGE_BUCKET</key>
+		<string>auth-demos.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:160012889513:ios:f91398744d2d01dbb7a8b8</string>
+		<key>DATABASE_URL</key>
+		<string>https://auth-demos.firebaseio.com</string>
+	</dict>
+</plist>

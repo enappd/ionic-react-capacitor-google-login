@@ -1,0 +1,7 @@
+{
+  "name": "IonReactCapGoogleLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IonReactCapGoogleLogin</string>
+    <string name="title_activity_main">IonReactCapGoogleLogin</string>
+    <string name="package_name">com.enappd.IonReactCapGoogleLogin</string>
+    <string name="fileprovider_authority">com.enappd.IonReactCapGoogleLogin.fileprovider</string>
+    <string name="custom_url_scheme">com.enappd.IonReactCapGoogleLogin</string>
+    <string name="server_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>
