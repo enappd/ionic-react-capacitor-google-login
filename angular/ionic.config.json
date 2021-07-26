@@ -1,0 +1,7 @@
+{
+  "name": "IonNgCapGoogleLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
